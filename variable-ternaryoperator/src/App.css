@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+ table{
+  border: 2px solid black;
+  border-collapse: collapse;
+  width: 50%;
+  margin: 20px;
+ }
+
+ th,td{
+  border: 2px solid black;
+
+ }
+ caption{
+  background-color: blue;
+  color: white;
+  
+ }
+ .school{
+  display: flex;
+  justify-content: center;
+ }
+h1{
+  background-color: burlywood;
+  color: brown;
+  border-radius: 20px;
+}
